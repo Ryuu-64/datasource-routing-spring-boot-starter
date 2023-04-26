@@ -12,6 +12,10 @@ java {
     targetCompatibility = JavaVersion.VERSION_1_8
 }
 
+springBoot {
+    mainClass = 'org.ryuu.spring.datasource.routing.configuration.DatasourceRoutingStarterConfig'
+}
+
 repositories {
     mavenCentral()
 }
