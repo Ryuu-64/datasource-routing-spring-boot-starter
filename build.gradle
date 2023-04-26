@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'org.ryuu'
-version = '0.1.0-2.7.11'
+version = '0.1.1-2.7.11'
 
 java {
     sourceCompatibility = JavaVersion.VERSION_1_8
